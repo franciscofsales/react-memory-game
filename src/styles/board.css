@@ -1,0 +1,16 @@
+.boardContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 80%;
+  justify-content: space-between;
+  align-items: space-between;
+  border-radius: 3px;
+  background: url(../bg.png);
+  border: 1px solid black;
+  padding: 30px;
+}
